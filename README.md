@@ -2,7 +2,13 @@
 A Sliding Mode Controller implemented in ROS and simulated in Gazebo on an inverted pendulum
 
 <p align="center">
-  <iframe width="420" height="315" src="https://youtu.be/xABoB2DvusU">
-  </iframe>
+<html>
+<body>
+
+<iframe width="420" height="345" src="https://youtu.be/xABoB2DvusU">
+</iframe>
+
+</body>
+</html>
 </p>
 
