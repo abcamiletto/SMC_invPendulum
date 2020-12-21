@@ -3,6 +3,6 @@ A Sliding Mode Controller implemented in ROS and simulated in Gazebo on an inver
 
 You can find more info about it in the Relazione.pdf file, written in Italian.
 <p align="center">
-  <img width="480" height="240" src="https://github.com/abcamiletto/SMC_invPendulum/blob/main/example_1.gif?raw=true">
+  <img width="480" height="260" src="https://github.com/abcamiletto/SMC_invPendulum/blob/main/example_1.gif?raw=true">
 </p>
 
